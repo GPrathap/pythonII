@@ -1,0 +1,62 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/geesara/test_cs/devel/include/**",
+        "/home/geesara/catkin_workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/LearningMPC/include/**",
+        "/home/geesara/catkin_workspace/src/angles/angles/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/autonomus_transport_industrial_system/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/base_local_planner/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/DecomROS/decom_rviz_plugins/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/distance_map/distance_map_core/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/distance_map/distance_map_deadreck/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/distance_map/distance_map_opencv/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/distance_map/distance_map_rviz/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Onboard-SDK-ROS/dji_sdk/include/**",
+        "/home/geesara/catkin_workspace/src/drone_forest/gazebo_sim/drone_sim/include/**",
+        "/home/geesara/catkin_workspace/src/sfds/full_coverage_path_planner/include/**",
+        "/home/geesara/catkin_workspace/src/indoor_robot/try2/hector_gazebo_plugins/include/**",
+        "/home/geesara/catkin_workspace/src/rl_try/hector_uav_msgs/include/**",
+        "/home/geesara/catkin_workspace/src/interactive_markers/include/**",
+        "/opt/ros/melodic/share/julius/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/map_building/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/map_building_2d/include/**",
+        "/home/devitt/src/Inno_PX4_Firmware/Tools/sitl_gazebo/include/**",
+        "/home/geesara/catkin_workspace/src/sfds/mobile_robot_simulator/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/mpc_opt/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/navfn/include/**",
+        "/home/geesara/catkin_workspace/src/ompl_example_2d/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/libs_extra/orunav_conversions/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/libs_extra/orunav_generic/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/libs_extra/orunav_geometry/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/libs_extra/orunav_motion_planner/include/**",
+        "/home/geesara/test_cs/src/planner/hagen_robot/libs_extra/orunav_rviz/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/path_finding/include/**",
+        "/home/geesara/catkin_workspace/src/realsense-ros/realsense2_camera/include/**",
+        "/home/geesara/catkin_workspace/src/rl_try/realsense_gazebo_plugin/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/rebound_opt/include/**",
+        "/home/geesara/catkin_workspace/src/car_node/rebound_shift_opt/include/**",
+        "/home/geesara/catkin_workspace/src/rl_try/parrot_ardrone/sjtu_drone/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/spline_opt/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/state_machine/include/**",
+        "/home/geesara/catkin_workspace/src/sfds/tracking_pid/include/**",
+        "/home/geesara/catkin_workspace/src/planner/Hagen-Planner/hagen_planner/traj_common/include/**",
+        "/home/geesara/catkin_workspace/src/mavros_offboard_control/uav_control/include/**",
+        "/home/geesara/catkin_workspace/src/water/vrx_ws/src/vrx/usv_gazebo_plugins/include/**",
+        "/home/geesara/catkin_workspace/src/water/usyd_vrx/vrx_control/include/**",
+        "/home/geesara/catkin_workspace/src/water/vrx_ws/src/vrx/vrx_gazebo/include/**",
+        "/home/geesara/catkin_workspace/src/water/usyd_vrx/vrx_waypoints/include/**",
+        "/home/geesara/catkin_workspace/src/water/vrx_ws/src/vrx/wave_gazebo_plugins/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

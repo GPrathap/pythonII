@@ -1,12 +1,12 @@
 
 
-message = input("Please Enter your message to be encrypted: ")
+message = input("Please Enter your message to be decrypted: ")
 pin = int(input("Please Enter your PIN: "))
 
 message_len = len(message)
 
 reversed_message = ""
-encrypted_message = ""
+decrypted_message = ""
 
 # reverse the message
 index = message_len
@@ -18,10 +18,10 @@ while index > 0:
 for i in range(0, message_len):
     if(reversed_message[i].isalpha()):
         if(reversed_message[i].isupper()):
-            encrypted_message += chr((ord(reversed_message[i]) - ord('A') + pin ) % 26 + ord('A'))
+            decrypted_message += chr((ord(reversed_message[i]) - ord('A') - pin ) % 26 + ord('A'))
         else:
-            encrypted_message += chr((ord(reversed_message[i]) - ord('a') + pin ) % 26 + ord('a'))
+            decrypted_message += chr((ord(reversed_message[i]) - ord('a') - pin ) % 26 + ord('a'))
     else:
-        encrypted_message += reversed_message[i]
+        decrypted_message += reversed_message[i]
 
-print("Encrypted message: ", encrypted_message)
+print("Decrypted message: ", decrypted_message)

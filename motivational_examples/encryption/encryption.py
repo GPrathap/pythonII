@@ -18,8 +18,11 @@ while index > 0:
 #add the value of the password to the reversed message
 j = 0
 for i in range(0, message_len):
-    if(isalpha(reversed_message[i])):
-        encrypted_message[i] = chr(ord(reversed_message[i]) + ord(password[j]) - ord('a'))
+    if(reversed_message[i].isalpha()):
+        encrypted_message += chr(ord(reversed_message[i]) + ord(password[j]) - ord('a'))
     j = j + 1
     if (j == password_len):
         j = 0
+
+encrypted_message = ''.join(map(str, encrypted_message))
+print("Encrypted message:", encrypted_message)

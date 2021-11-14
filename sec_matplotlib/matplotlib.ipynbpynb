@@ -26,7 +26,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/NadithM/pythonII/blob/master/sec_matplotlib/matplotlib.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/NadithM/pythonII/blob/master/sec_matplotlib/matplotlib.ipynbpynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "source": [
         "## **1.1 What Is Line Plot?**\n",
         "\n",
-        "## **Line Plot එකක් යනු කුමක්ද?**"
+        "## **1.1 Line Plot එකක් යනු කුමක්ද?**."
       ]
     },
     {
@@ -136,8 +136,7 @@
         "id": "p_w8a50tr8CH"
       },
       "source": [
-        "## **1.2 Simple Line Plots**\n",
-        "## **සරල Line Plot එකක් ඇඳීම**\n"
+        "## **1.2 Simple Line Plots**"
       ]
     },
     {
@@ -157,9 +156,9 @@
         "id": "Sv7TVqpTWrUC"
       },
       "source": [
-        "### 1.2.1 **Example 1**: Simple Graph For Y=log(X)\n",
+        "### 1.2.1 **Example 1**: Can You Create Simple Graph For Y=log(X) ?\n",
         "\n",
-        "### **උදාහරණ 1**: y = log (x) ඇදීම \n"
+        "### 1.2.1 **උදාහරණ 1**: y = log (x) ඇදීම \n"
       ]
     },
     {
@@ -215,6 +214,8 @@
         "\n",
         "y=np.log(x)\n",
         "\n",
+        "\n",
+        "\n",
         "# Then simply plot X and Y coordinates\n",
         "plt.plot(x,y)\n",
         "\n",
@@ -258,7 +259,7 @@
       },
       "source": [
         "### 1.2.2 **Example 2**: Wanna Know about Software Engineers' Salary ? .\n",
-        "### **උදාහරණය 2**: මෘදුකාංග ඉංජිනේරුවන් ගේ වාර්ෂික වැටුප(මධ්‍යස්ථ අගයක්) ඔවුන්ගේ වයසත් සමග වෙනස්වීම."
+        "### උදාහරණය 2: මෘදුකාංග ඉංජිනේරුවන් ගේ වාර්ෂික වැටුප(මධ්‍යස්ථ අගයක්) ඔවුන්ගේ වයසත් සමග වෙනස්වීම."
       ]
     },
     {
@@ -365,50 +366,11 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "rVhOIpqR_W8v"
-      },
-      "source": [
-        "### 1.2 **Exercise 1**: Can you draw a graph for y = 2*x + 5 ?\n",
-        "### **අභ්‍යාසය 1**: y = 2*x + 5 යන ප්‍රස්ථාරය අඳින්න?\n"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "jhQxQVguA5-h"
-      },
-      "source": [
-        "#### **Exercise 1**: Answer\n",
-        "\n",
-        "#### අභ්‍යාසය 1 : විසඳුම"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "-N9fCe8FBar7"
-      },
-      "source": [
-        "x=np.linspace(1,10,10)\n",
-        "\n",
-        "y=2*x + 5\n",
-        "plt.plot(x,y)\n",
-        "\n",
-        "plt.xlabel('x')\n",
-        "plt.ylabel('2x + 5')\n",
-        "plt.title('Line Plot y = 2*x + 5')"
-      ],
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
         "id": "I-CfeYL79BA6"
       },
       "source": [
         "## **1.3 Multiple Line Plot In The Same Graph**\n",
-        "## **එකම ප්‍රස්ථාරයේ රේඛා කිහිපයක් ඇඳීම**\n"
+        "## 1.3 එකම ප්‍රස්ථාරයේ රේඛා කිහිපයක් ඇඳීම\n"
       ]
     },
     {
@@ -497,22 +459,11 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "oAnZ3pQD80Xu"
-      },
-      "source": [
-        "### **Excercise 1**: Can you draw two functions – sin(x) and log(x) in the same graph ? \n",
-        "\n",
-        "**Hint: you can use np.sin(x) function for sin values**"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
         "id": "VokWeo4C0F2O"
       },
       "source": [
         "## **1.4 Filling Area on Line Plots**\n",
-        "## **රේඛා අතර Area එක fill කිරීම**"
+        "## 1.4 රේඛා අතර Area එක fill කිරීම"
       ]
     },
     {
@@ -593,7 +544,7 @@
       },
       "source": [
         "## **1.5 Creating A Secondary Axis With Different Scale**\n",
-        "## **Y-අක්ෂ සඳහා විවිධ පරිමාණයන් සමග ද්විතීක අක්ෂයක් නිර්මාණය කිරීම**"
+        "## 1.5 Y-අක්ෂ සඳහා විවිධ පරිමාණයන් සමග ද්විතීක අක්ෂයක් නිර්මාණය කිරීම"
       ]
     },
     {
@@ -696,7 +647,7 @@
       },
       "source": [
         "## **1.6 Line Plot Using Imported Data From CSV**\n",
-        "## **CSV file එකක් මගින් import කරන ලද දත්ත සමූහයකට රේඛා ප්‍රස්තාර ඇඳීම**"
+        "## 1.6 CSV file එකක් මගින් import කරන ලද දත්ත සමූහයකට රේඛා ප්‍රස්තාර ඇඳීම"
       ]
     },
     {
@@ -1873,7 +1824,7 @@
       },
       "source": [
         "# **Section 4 : Introduction To Stack Plot - Extra**\n",
-        "# 4 කොටස :  Stack charts හැඳින්වීම - අමතර ඒකකයකි \n",
+        "# කොටස 4 : \n",
         "\n",
         "---"
       ]
@@ -1938,7 +1889,6 @@
       },
       "source": [
         "# **Section 5 : Introduction To Histograms**\n",
-        "# 5 කොටස :  Histograms charts හැඳින්වීම\n",
         "\n",
         "---\n"
       ]
@@ -2223,8 +2173,9 @@
       },
       "source": [
         "# **Section 6 : Introduction To Scatter Plots**\n",
-        "# 6 කොටස :  Scatter charts හැඳින්වීම\n",
-        "---"
+        "\n",
+        "---\n",
+        "##**පාඩම 6 : Scatter Plot එකක් යනු කුමක්ද යැයි හැදින්වීම**"
       ]
     },
     {
@@ -2349,9 +2300,8 @@
       },
       "source": [
         "### **6.2.1 Example 2**: Youtube Like/Dislike Ratio\n",
-        "#### **උදාහරණ 2 : youtube videos වල reviews ඇනලයිස් කිරීම**\n",
-        "\n",
-        "අපි හැමෝම YouTube පාවිච්චි කරනවනේ. ඉතින් අපි දැන් බලමු උදාහරනයක් විදිහට අරගෙන මේ YouTube එකේ Trending වුන video එකක් ගැන හිතලා ඒ video එකට කැමති සහ අකමැති පිරිසගේ ratio එක, ඒ කියන්නේ කැමති සහ අකමැති පිරිස අතර අනුපාතය, ඒ video එක බලමු අය (View  Count ) සහ  ඒ video එකට ලැබුන Total Likes ගණන Scatter plot එකකින් ඇදලා."
+        "#### **6.2.1 උදාහරණ 2** : අපි හැමෝම YouTube පාවිච්චි කරනවනේ. ඉතින් අපි දැන් බලමු උදාහරනයක් විදිහට අරගෙන මේ YouTube එකේ Trending වුන video එකක් ගැන හිතලා ඒ video එකට කැමති සහ අකමැති පිරිසගේ ratio එක, ඒ කියන්නේ කැමති සහ අකමැති පිරිස අතර අනුපාතය, ඒ video එක බලමු අය (View  Count ) සහ  ඒ video එකට ලැබුන Total Likes ගණන Scatter plot එකකින් ඇදලා.\n",
+        "\n"
       ]
     },
     {
@@ -2424,18 +2374,9 @@
       },
       "source": [
         "# **Section 7 : Introduction To Plotting Time Series Data**\n",
-        "# 7 කොටස :  Time Series charts හැඳින්වීම\n",
+        "###**පාඩම 7 : අපි දැන් බලමු Time Series data කොහොමද plot කරන්නේ කියලා** \n",
         "\n",
         "---\n"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "Jq6q54oq9zwQ"
-      },
-      "source": [
-        "###අපි දැන් බලමු Time Series data කොහොමද plot කරන්නේ කියලා** "
       ]
     },
     {
@@ -18582,7 +18523,6 @@
       },
       "source": [
         "# **Section 8 : Introduction To SubPlots**\n",
-        "# 8 කොටස :  SubPlots charts හැඳින්වීම\n",
         "\n",
         "---\n"
       ]

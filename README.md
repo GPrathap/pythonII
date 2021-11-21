@@ -59,5 +59,5 @@
   * [Creating Subplots - _Subplots නිර්මාණය කිරීම_ :books:](#subplots) [🎞️]()
     * [What is a Sub Plot? - _Subplot එකක් යනු කුමක්ද?_](#what-is-a-subplot) [🎞️]()
     * [Simple Sub Plots - සරල Sub Plots](#simple-subplots) [🎞️]()
-  * [Answers for Exercises - _අභ්‍යාස සදහා විසඳුම්_ ](#answers-for-exercises) [🎞️]()
+  * [Answers for Exercises - _අභ්‍යාස සදහා විසඳුම්_ :books:](#answers-for-exercises) [🎞️]()
 

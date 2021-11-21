@@ -9,7 +9,7 @@
 * [Numpy](#numpy) :dart:
   * [Introduction to Numpy හැඳින්වීම :books:](#introduction-to-numpy) [🎞️]()
   * [Creating numpy Array නිර්මාණය කිරීම :books: ](#using-the-library) [🎞️]()
-  * [Anatomy of an Array ව්‍යුහ විද්‍යාව :books: ](#anatomy-of-an-array) [🎞️]()
+  * [Anatomy of an Array අභ්‍යන්තර සැකැස්ම :books: ](#anatomy-of-an-array) [🎞️]()
   * [Evalutaing numpy performance කාර්යසාධනය ඇගයීම :books:](#operations-and-performance) [🎞️]()
   * [Loading, Reading, Writing Data දත්ත විවෘත කිරීම, කියවීම සහ ලිවීම:books: ](#basic-operations) [🎞️]()
   * [Sorting, Slicing, Stacking and Logical Operations දත්ත වර්ග කිරීම් වෙන්කිරීම, එකතු කිරීම සහ තාර්කික මෙහෙයුම් :books: ](#corrupted-or-not-available-data) [🎞️]()

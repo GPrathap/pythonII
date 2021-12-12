@@ -8,7 +8,6 @@
   * [Course Structure :books: ](#course-structure) [🎞️]()
 * [Numpy](#numpy) :dart:
   * [Introduction to Numpy - _හැඳින්වීම_ :books:](#introduction-to-numpy) [🎞️]()
-  * [Creating numpy Array - _නිර්මාණය කිරීම_ :books: ](#using-the-library) [🎞️]()
   * [Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](#anatomy-of-an-array) [🎞️]()
   * [Evalutaing numpy performance - _කාර්යසාධනය ඇගයීම_ :books:](#operations-and-performance) [🎞️]()
   * [Loading, Reading, Writing Data - _දත්ත විවෘත කිරීම, කියවීම සහ ලිවීම_:books: ](#basic-operations) [🎞️]()

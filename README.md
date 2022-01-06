@@ -17,6 +17,7 @@
   * [Introduction to Pandas - _හැඳින්වීම_ :books:](#introduction-to-pandas) [🎞️](https://drive.google.com/file/d/1waSpa4TStORZM4nXyETJd8MfXH0ftt4F/view?usp=sharing)
   * [Creating, Reading, and Writing - _නිර්මාණය කිරීම, කියවීම සහ ලිවීම_ :books: ](#creating-reading-and-writing)
       * [Creating DataFrame- _නිර්මාණය කිරීම_](#creating) [🎞️](https://drive.google.com/file/d/1M8TEEc94gZzJxWkeqQF4i6HaxezW6xSg/view?usp=sharing)
+      * [Indexing - සුචිගත කිරීම ](#creating) [🎞️](https://drive.google.com/file/d/1wc4G4ZmLERUywHEsZ3c9AOWHMGwL8R6n/view?usp=sharing)
       * [Creating DataFrame from Series- _නිර්මාණය කිරීම_](#creating-series) [🎞️](https://drive.google.com/file/d/1u4vu6acz-CYxMoFvudqeE4X_iA9MWa9f/view?usp=sharing)
       * [Reading, and Writing - _කියවීම සහ ලිවීම__](#reading-and-writing) [🎞️](https://drive.google.com/file/d/1CuSNi9sBbx79hpFeK0AW37zFYlfHkzu6/view?usp=sharing)
   * [Accessing, Indexing, Selecting, and Assigning - _ප්‍රවේශ වීම, සුචිගත කිරීම, තෝරා ගැනීම සහ පැවරීම_  :books:](#accessing-indexing-selecting-and-assigning)

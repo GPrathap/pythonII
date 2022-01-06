@@ -14,8 +14,8 @@
   * [Sorting, Slicing, Stacking and Logical Operations - _දත්ත වර්ග කිරීම් වෙන්කිරීම, එකතු කිරීම සහ තාර්කික මෙහෙයුම්_ :books: ](#corrupted-or-not-available-data) [�]()
   * [Handling corrupted or unavailable data - _හානි වූ සහ අස්ථානගත දත්ත සකස් කිරීම_:books: ](#basic-operations) [�]()
 * [Pandas](#pandas) :dart:
-  * [Section 1: Introduction to Pandas - _හැඳින්වීම_ :books:](#introduction-to-pandas) [🎞️](https://drive.google.com/file/d/1waSpa4TStORZM4nXyETJd8MfXH0ftt4F/view?usp=sharing)
-  * [Section 2: Creating, Reading, and Writing - _නිර්මාණය කිරීම, කියවීම සහ ලිවීම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb)
+  * [Section 1: Introduction to Pandas - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas_introduction.ipynb) [🎞️]()
+  * [Section 2: Creating, Reading, and Writing - _නිර්මාණය කිරීම, කියවීම සහ ලිවීම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb)  [🎞️](https://drive.google.com/file/d/1waSpa4TStORZM4nXyETJd8MfXH0ftt4F/view?usp=sharing)
       * [Creating DataFrame- _නිර්මාණය කිරීම](#creating) [🎞️](https://drive.google.com/file/d/1M8TEEc94gZzJxWkeqQF4i6HaxezW6xSg/view?usp=sharing)
       * [Indexing - සුචිගත කිරීම ](#creating) [🎞️](https://drive.google.com/file/d/1wc4G4ZmLERUywHEsZ3c9AOWHMGwL8R6n/view?usp=sharing)
       * [Creating DataFrame from Series- _නිර්මාණය කිරීම_](#creating-series) [🎞️](https://drive.google.com/file/d/1u4vu6acz-CYxMoFvudqeE4X_iA9MWa9f/view?usp=sharing)

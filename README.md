@@ -30,7 +30,7 @@
       * [Building Summary Functions - දැනට පවතින සාරාංශ කාර්යයන් ](#building_summary_function)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
       * [Maps - සිතියම්_ ](#mapping)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
   * [Grouping _කණ්ඩායම් කිරීම_ :books: ](#grouping) [🎞️](https://drive.google.com/file/d/1hQZFgH_uOBE8q1V-yZ7OtD_5U2VfATmW/view?usp=sharing)
-  * [Data Types and Missing Values - _දත්ත වර්ග සහ නැතිවූ අගයන්_ :books:](#data-types-and-missing-values) [🎞️](https://drive.google.com/file/d/1hQZFgH_uOBE8q1V-yZ7OtD_5U2VfATmW/view?usp=sharing)
+  * [Data Types and Missing Values - _දත්ත වර්ග සහ නැතිවූ අගයන්_ :books:](#data-types-and-missing-values) [🎞️](https://drive.google.com/file/d/1SIs-wbJDbLDtiMMX2vbvvmRU1kwwljId/view?usp=sharing)
   * [Renaming and Combining - _නැවත නම් කිරීම සහ ඒකාබද්ධ කිරීම_ :books: ](#renaming-and-combining)
       * [Renaming - නැවත නම් කිරීම ](#renaming)[🎞️](https://drive.google.com/file/d/14--q8gLkhKOWwe5WH6-r8TAYRmg866WA/view?usp=sharing)
       * [Combining - ඒකාබද්ධ කිරීම ](#combining)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)

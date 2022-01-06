@@ -23,7 +23,7 @@
   * [Accessing, Indexing, Selecting, and Assigning - _ප්‍රවේශ වීම, සුචිගත කිරීම, තෝරා ගැනීම සහ පැවරීම_  :books:](#accessing-indexing-selecting-and-assigning)
       * [Accessing the data - _දත්ත වලට ප්‍රවේශ වීම_](#accessing-the-data) [🎞️](https://drive.google.com/file/d/1ODRGAk9JrP5FJ1tKq9K1930ozUEHMWI9/view?usp=sharing)
       * [Indexing - සුචිගත කිරීම](#indexing) [🎞️](https://drive.google.com/file/d/19QmhDN1O9UjrEpGq3ozEST0g_PLGgAkT/view?usp=sharing)
-      * [Manipulating the Index - දර්ශකය හැසිරවීම](#manipulation-the-index) [🎞️](https://drive.google.com/file/d/1sbCRJx57dJ50esdcVwfb-TC6DuaANoSe/view?usp=sharing)
+      * [Manipulating the Index - දර්ශකය හැසිරවීම](#manipulation-the-index) [🎞️](https://drive.google.com/file/d/124fSD4OLxCJfSpcQ9oKiJbITMxEC7FJ9/view?usp=sharing)
       * [Selecting of different ways - _තෝරා ගැනීමේ විවිධ ක්‍රම_](#selecting-of-different-ways) [🎞️](https://drive.google.com/file/d/124fSD4OLxCJfSpcQ9oKiJbITMxEC7FJ9/view?usp=sharing)
       * [Assigning data - _දත්ත පැවරීම_ ](#assigning-data) [🎞️](https://drive.google.com/file/d/1aYklUXwTA4MaHK_00UEGRqpu_mhjDwXd/view?usp=sharing)
   * [Building Summary Functions and Maps - _දැනට පවතින සාරාංශ කාර්යයන් සහ සිතියම්_ :books:](#building-summary-functions-and-maps) [🎞️](https://drive.google.com/file/d/1FrqRbFBLCWNOCiYxfTcx8Jwi3towoSDR/view?usp=sharing)

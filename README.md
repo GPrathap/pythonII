@@ -33,7 +33,7 @@
   * [Data Types and Missing Values - _දත්ත වර්ග සහ නැතිවූ අගයන්_ :books:](#data-types-and-missing-values) [🎞️](https://drive.google.com/file/d/1SIs-wbJDbLDtiMMX2vbvvmRU1kwwljId/view?usp=sharing)
   * [Renaming and Combining - _නැවත නම් කිරීම සහ ඒකාබද්ධ කිරීම_ :books: ](#renaming-and-combining)
       * [Renaming - නැවත නම් කිරීම ](#renaming)[🎞️](https://drive.google.com/file/d/14--q8gLkhKOWwe5WH6-r8TAYRmg866WA/view?usp=sharing)
-      * [Combining - ඒකාබද්ධ කිරීම ](#combining)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
+      * [Combining - ඒකාබද්ධ කිරීම ](#combining)[🎞️](https://drive.google.com/file/d/1fvUZscs61Ll-P3ebSSDyBcA3eeu77w77/view?usp=sharing)
 * [Matplotlib](#matplotlib) :dart:
   * [Introduction to Matplotlib - _හැඳින්වීම_:books:](#introduction-to-matplotlib) [�]()
   * [Creating Line Plots - _Line Plot නිර්මාණය කිරීම_:books: ](#line-plots) [�]()

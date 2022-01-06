@@ -26,7 +26,7 @@
       * [Manipulating the Index - දර්ශකය හැසිරවීම](#manipulation-the-index) [🎞️](https://drive.google.com/file/d/1sbCRJx57dJ50esdcVwfb-TC6DuaANoSe/view?usp=sharing)
       * [Selecting of different ways - _තෝරා ගැනීමේ විවිධ ක්‍රම_](#selecting-of-different-ways) [🎞️](https://drive.google.com/file/d/1aYklUXwTA4MaHK_00UEGRqpu_mhjDwXd/view?usp=sharing)
       * [Assigning data - _දත්ත පැවරීම_ ](#assigning-data) [🎞️](https://drive.google.com/file/d/124fSD4OLxCJfSpcQ9oKiJbITMxEC7FJ9/view?usp=sharing)
-  * [Building Summary Functions and Maps - _දැනට පවතින සාරාංශ කාර්යයන් සහ සිතියම්_ :books:](#building-summary-functions-and-maps) [🎞️](https://drive.google.com/file/d/1FrqRbFBLCWNOCiYxfTcx8Jwi3towoSDR/view?usp=sharing)
+  * [Building Summary Functions and Maps - _දැනට පවතින සාරාංශ කාර්යයන් සහ සිතියම්_ :books:](#building-summary-functions-and-maps) 
       * [Building Summary Functions - දැනට පවතින සාරාංශ කාර්යයන් ](#building_summary_function)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
       * [Maps - සිතියම්_ ](#mapping)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
   * [Grouping _කණ්ඩායම් කිරීම_ :books: ](#grouping) [🎞️](https://drive.google.com/file/d/1hQZFgH_uOBE8q1V-yZ7OtD_5U2VfATmW/view?usp=sharing)

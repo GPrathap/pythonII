@@ -21,7 +21,7 @@
       * [Creating DataFrame from Series- _නිර්මාණය කිරීම_](#creating-series) [🎞️](https://drive.google.com/file/d/1u4vu6acz-CYxMoFvudqeE4X_iA9MWa9f/view?usp=sharing)
       * [Reading, and Writing - _කියවීම සහ ලිවීම__](#reading-and-writing) [🎞️](https://drive.google.com/file/d/1CuSNi9sBbx79hpFeK0AW37zFYlfHkzu6/view?usp=sharing)
   * [Accessing, Indexing, Selecting, and Assigning - _ප්‍රවේශ වීම, සුචිගත කිරීම, තෝරා ගැනීම සහ පැවරීම_  :books:](#accessing-indexing-selecting-and-assigning)
-      * [Accessing the data - _දත්ත වලට ප්‍රවේශ වීම_](#accessing-the-data) [🎞️](https://drive.google.com/file/d/1sbCRJx57dJ50esdcVwfb-TC6DuaANoSe/view?usp=sharing)
+      * [Accessing the data - _දත්ත වලට ප්‍රවේශ වීම_](#accessing-the-data) [🎞️](https://drive.google.com/file/d/1ODRGAk9JrP5FJ1tKq9K1930ozUEHMWI9/view?usp=sharing)
       * [Indexing - _සුචිගත කිරීම_](#indexing) [🎞️](https://drive.google.com/file/d/1sbCRJx57dJ50esdcVwfb-TC6DuaANoSe/view?usp=sharing)
       * [Manipulating the Index - _දර්ශකය හැසිරවීම_](#manipulation-the-index) [🎞️](https://drive.google.com/file/d/1sbCRJx57dJ50esdcVwfb-TC6DuaANoSe/view?usp=sharing)
       * [Selecting of different ways - _තෝරා ගැනීමේ විවිධ ක්‍රම_](#selecting-of-different-ways) [🎞️](https://drive.google.com/file/d/124fSD4OLxCJfSpcQ9oKiJbITMxEC7FJ9/view?usp=sharing)

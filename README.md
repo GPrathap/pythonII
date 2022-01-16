@@ -1,11 +1,10 @@
 # Python Second Course 
 * Link to drive [https://drive.google.com/drive/folders/1Y2K5HEwwLkX-ZYuziABnWCP58ggyLR82?usp=sharing]
 * [Introduction](#introduction) :dart:
-  * [Motivation :books:
-](#motivation) [�](https://github.com/GPrathap/pythonII/blob/master/intro/course_motivation.ipynb)
+  * [Motivation :books:](https://github.com/GPrathap/pythonII/blob/master/intro/course_motivation.ipynb)
   * [Make a bridge :books:](#make-a-bridge) [�]()
-  * [Introduction to Google Colab :books:](#introduction-to-google-colab) [�](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb)
-  * [Course Structure :books: ](#course-structure) [�](https://github.com/GPrathap/pythonII/blob/master/intro/course_structure.ipynb)
+  * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb)
+  * [Course Structure :books: ](https://github.com/GPrathap/pythonII/blob/master/intro/course_structure.ipynb)
 * [Numpy](#numpy) :dart:
   * [Introduction to Numpy - _හැඳින්වීම_ :books:](#introduction-to-numpy) [�]()
   * [Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](#anatomy-of-an-array) [�]()

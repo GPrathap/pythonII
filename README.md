@@ -7,7 +7,7 @@
   * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb)
 * [Numpy](#numpy) :dart:
   * [Section 1: Introduction to Numpy - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy_introduction.ipynb) [🎞️]()
-  * [Section 2: Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](#anatomy-of-an-array) [🎞️](https://drive.google.com/drive/folders/1xsUO95icdk21RFm3dT8vS3w7XrQwDmxo?usp=sharing)
+  * [Section 2: Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](#anatomy-of-an-array) 
     * [Numpy dimensions and shape හැඩය සහ මානය](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) [🎞️](https://drive.google.com/file/d/1TLibSoe27UgFno2za__BYXckkf8o4hR_/view?usp=sharing)
     * [Dimensions and shape in array හැඩය සහ මානය](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) [🎞️](https://drive.google.com/file/d/1BJgDVtcaVAJTDyYNtOklU1pmGWXNclmf/view?usp=sharing)
     * [Reshaping arrays හැඩය වෙනස් කිරීම්](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) [🎞️](https://drive.google.com/file/d/1hUY7al307wj225i5uxTxO9v8pN20UDTf/view?usp=sharing)

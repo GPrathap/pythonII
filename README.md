@@ -4,7 +4,7 @@
   * [Motivation :books:](https://github.com/GPrathap/pythonII/blob/master/intro/course_motivation.ipynb)
   * [Course Structure :books: ](https://github.com/GPrathap/pythonII/blob/master/intro/course_structure.ipynb)
   * [Make a bridge :books:](#make-a-bridge) [�]()
-  * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb)
+  * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb) [🎞️](https://drive.google.com/file/d/1OmxRkj64iSGB9JQJcAD6vzKUDVN6DrgC/view?usp=sharing)
 * [Numpy](#numpy) :dart:
   * [Section 1: Introduction to Numpy - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy_introduction.ipynb) [🎞️]()
   * [Section 2: Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) 

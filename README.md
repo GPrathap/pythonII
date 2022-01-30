@@ -6,7 +6,7 @@
   * [Make a bridge :books:](#make-a-bridge) [�]()
   * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb) [🎞️](https://drive.google.com/file/d/1OmxRkj64iSGB9JQJcAD6vzKUDVN6DrgC/view?usp=sharing)
 * [Numpy](#numpy) :dart:
-  * [Section 1: Introduction to Numpy - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy_introduction.ipynb) [🎞️]()
+  * [Section 1: Introduction to Numpy - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy_introduction.ipynb) [🎞️](https://drive.google.com/file/d/1Yfewq2lVw1As2vCoF6A7Cg0epcCCDpye/view?usp=sharing)
   * [Section 2: Anatomy of an Array - _අභ්‍යන්තර සැකැස්ම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) 
     * [Numpy dimensions and shape හැඩය සහ මානය](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) [🎞️](https://drive.google.com/file/d/1TLibSoe27UgFno2za__BYXckkf8o4hR_/view?usp=sharing)
     * [Dimensions and shape in array හැඩය සහ මානය](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy.ipynb) [🎞️](https://drive.google.com/file/d/1BJgDVtcaVAJTDyYNtOklU1pmGWXNclmf/view?usp=sharing)

@@ -42,6 +42,7 @@
     * [What is a Line Plot - _Line Plot එකක් යනු කුමක්ද?_](#what-is-line-plot)
     * [Simple Line Plots - _සරල Line Plots ඇඳීම_](#simple-line-plots) [�]()
     * [Multiple Line Plots in the Same Graph - _එකම ප්‍රස්ථාරයේ රේඛා කිහිපයක් ඇඳීම_](#multiple-line-plot-in-the-same-graph) [�]()
+    * [Creating Subplots - _Subplots නිර්මාණය කිරීම_](#creating-subplots) [�]()
     * [Creating A Secondary Axis With Different Scale - _Y-අක්ෂ සඳහා විවිධ පරිමාණයන් සමග ද්විතීක අක්ෂයක් නිර්මාණය කිරීම_](#creating-a-secondary-axis-with-different-scale) [�]()
     * [Line Plots Using Imported Data From CSV -  _CSV file එකක් මගින් import කරන ලද දත්ත සමූහයකට රේඛා ප්‍රස්තාර ඇඳීම_](#line-plot-using-imported-data-from-csv) [�]()
     * [Filling Area on Line Plots - _රේඛා අතර Area එක fill කිරීම_](#filling-area-on-line-plots) [�]()
@@ -65,8 +66,5 @@
     * [What is Time Series Data Plot? - _Time Series data Plot එකක් යනු කුමක්ද?_](#what-is-a-time-series-data-plot) [�]()
     * [Simple Time Series Data Plots - _සරල Time Series Data Plots_](#simple-time-series-data-plots) [�]()
     * [Plotting Live Data in Real-Time - _සජීවී දත්ත real time ප්‍රස්තාරයකින් දැක්වීම_](#plotting-live-data-in-real-time) [�]()
-  * [Creating Subplots - _Subplots නිර්මාණය කිරීම_ :books:](#subplots) [�]()
-    * [What is a Sub Plot? - _Subplot එකක් යනු කුමක්ද?_](#what-is-a-subplot) [�]()
-    * [Simple Sub Plots - සරල Sub Plots](#simple-subplots) [�]()
   * [Answers for Exercises - _අභ්‍යාස සදහා විසඳුම්_ :books:](#answers-for-exercises) [�]()
 

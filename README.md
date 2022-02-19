@@ -1,7 +1,8 @@
 # Python Second Course 
 * Link to drive [https://drive.google.com/drive/folders/1Y2K5HEwwLkX-ZYuziABnWCP58ggyLR82?usp=sharing]
 * [Introduction](#introduction) :dart:
-  * [Motivation and Course Structure :books:](https://github.com/GPrathap/pythonII/blob/master/intro/course_motivation.ipynb) [🎞️](https://drive.google.com/file/d/1YY8D1hT5WDrZH2L9t3AexrEQbjpCxUGz/view?usp=sharing)
+  * [Motivation :books:](https://github.com/GPrathap/pythonII/blob/master/intro/course_motivation.ipynb) [🎞️](https://drive.google.com/file/d/1YY8D1hT5WDrZH2L9t3AexrEQbjpCxUGz/view?usp=sharing)
+  * [Course Structure :books:](https://github.com/GPrathap/pythonII/blob/master/intro/course_structure.ipynb)
   * [Introduction to Google Colab :books:](https://github.com/GPrathap/pythonII/blob/master/intro/colab_introduction.ipynb) [🎞️](https://drive.google.com/file/d/1OmxRkj64iSGB9JQJcAD6vzKUDVN6DrgC/view?usp=sharing)
 * [Numpy](#numpy) :dart:
   * [Section 1: Introduction to Numpy - _හැඳින්වීම_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_numpy/numpy_introduction.ipynb) [🎞️](https://drive.google.com/file/d/1Yfewq2lVw1As2vCoF6A7Cg0epcCCDpye/view?usp=sharing)

@@ -19,7 +19,7 @@
   * [Section 2: Creating, Reading, and Writing - _නිර්මාණය කිරීම, කියවීම සහ ලිවීම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb)  [🎞️](https://drive.google.com/file/d/1SJ0AgfFtOlvqMvuVlzoXSnvKrMCOld4g/view?usp=sharing)
       * [Creating DataFrame- _නිර්මාණය කිරීම](#creating) [🎞️](https://drive.google.com/file/d/1PUr9-JSLV3ruH97h3n8yAUOkyYPSsSC9/view?usp=sharing)
       * [Indexing - සුචිගත කිරීම ](#creating) [🎞️](https://drive.google.com/file/d/1-eQkUt43q9PlTKR3NVlL7fmIumz_TfXe/view?usp=sharing)
-      * [Creating DataFrame from Series- _නිර්මාණය කිරීම_](#creating-series) [🎞️](https://drive.google.com/file/d/1Jv9eJkaA92vxPYi5NdO_BCih5ZoD4syo/view?usp=sharing)
+      * [Creating DataFrame from Series- _නිර්මාණය කිරීම_](#creating-series) [🎞️](https://drive.google.com/file/d/104PCrI49jE4BqKtiRlhsTyOBrUSRKqQz/view?usp=sharing)
       * [Reading, and Writing - _කියවීම සහ ලිවීම__](#reading-and-writing) [🎞️](https://drive.google.com/file/d/1Jv9eJkaA92vxPYi5NdO_BCih5ZoD4syo/view?usp=sharing)
   * [Section 3: Accessing, Indexing, Selecting, and Assigning - _ප්‍රවේශ වීම, සුචිගත කිරීම, තෝරා ගැනීම සහ පැවරීම_  :books:](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb)
       * [Accessing the data - _දත්ත වලට ප්‍රවේශ වීම_](#accessing-the-data) [🎞️](https://drive.google.com/file/d/1inVlCiutZ2aastS58GU0ubbrCyF5c3UZ/view?usp=sharing)

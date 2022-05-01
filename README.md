@@ -29,7 +29,7 @@
       * [Assigning data - _දත්ත පැවරීම_ ](#assigning-data) [🎞️](https://drive.google.com/file/d/1RKNV4LRTlDgQis5qXOWUZiW-vRGET3rV/view?usp=sharing)
   * [Section 4: Building Summary Functions and Maps - _දැනට පවතින සාරාංශ කාර්යයන් සහ සිතියම්_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb) 
       * [Building Summary Functions - දැනට පවතින සාරාංශ කාර්යයන් ](#building_summary_function)[🎞️](https://drive.google.com/file/d/1xCQR5wJSxuUNQCTGkw9KzzmZVNcc7CI1/view?usp=sharing)
-      * [Maps - සිතියම්_ ](#mapping)[🎞️](https://drive.google.com/file/d/1IfRDf2byTQypirNenq6e4_TkKVR9agai/view?usp=sharing)
+      * [Maps - සිතියම්_ ](#mapping)[🎞️](https://drive.google.com/file/d/10eExp0W_Qpc8Zbj1kufpVs0YfLwMmfaB/view?usp=sharing)
   * [Section 5: Grouping _කණ්ඩායම් කිරීම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb) [🎞️](https://drive.google.com/file/d/1QqJB5GhrABXKSqn3wfULHDY2OkbaUFac/view?usp=sharing)
   * [Section 6: Data Types and Missing Values - _දත්ත වර්ග සහ නැතිවූ අගයන්_ :books:](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb) [🎞️](https://drive.google.com/file/d/1FILrpHI4V95Szy0mK4YMpttyS6rfvlUA/view?usp=sharing)
   * [Section 7: Renaming and Combining - _නැවත නම් කිරීම සහ ඒකාබද්ධ කිරීම_ :books: ](https://github.com/GPrathap/pythonII/blob/master/sec_pandas/pandas.ipynb)
